@@ -1,0 +1,76 @@
+.navbar{
+  background-color:grey;
+  padding: 5px;
+}
+
+.boldI{
+  outline: 1px solid white;
+  color:white;
+  font-weight: 600;
+  text-decoration:none;
+  padding: 0px 4px 0px 4px;
+}
+
+.navheader{
+  color:black;
+  font-weight: 600;
+  text-decoration:none;
+}
+
+.menuitems {
+  color:white;
+  padding:.5%;
+}
+
+.menuitems a{
+  color:black;
+  text-decoration:none;
+}
+
+.loginlink{
+  margin-left:300px;
+}
+
+.mainlist{
+  width:697px;
+  margin-top:5px;
+  margin-bottom:0px;
+  padding-left:30px;
+  padding-top:5px;
+  padding-bottom:10px;
+  background-color:lightgrey;
+}
+
+.listNum{
+  color:black;
+  padding-top:5px;
+}
+
+.commentItem{
+  color:grey;
+  font-size:smaller;
+}
+
+.footerStuff{
+  width:727px;
+  border-top: solid 1px grey;
+  text-align:center;
+  color:black;
+  background-color:lightgrey;
+/*   margin-top:0px; */
+  padding-top:10px;
+  padding-bottom:30px;
+  font-size:smaller;
+
+}
+
+.footerStuff a{
+  color:black;
+  text-decoration:none;
+}
+
+.webref{
+  font-size:smaller;
+  color:grey;
+  padding-left:5px;
+}
